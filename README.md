@@ -1,3 +1,3 @@
-# My-journey-s
-This is my first Git repository
+# My-journeys.
+This is my first Git Repository. 
 Author - PRAJWAL BR
